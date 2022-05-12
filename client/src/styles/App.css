@@ -1,0 +1,102 @@
+.container {
+  width: 250px;
+  height: max-content;
+  margin: auto;
+  background-color: #ADD8E6;
+  padding: 20px 15px;
+  margin-top: 40px;
+  border-radius: 7px;
+  font-family: 'Times New Roman', Times, serif;
+  box-shadow: 10px 11px rgba(0, 0, 0, 0);
+}
+
+h1{
+  margin: 0;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.login-form{
+  padding: 5px;
+}
+
+.form-field{
+  display: inline-block;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.form-cadastro {
+  margin-top: 10px;
+  margin-left: 50px;
+  font-family: 'serif';
+  color: #007fff;
+}
+
+.form-login{
+  margin-top: 10px;
+  margin-left: 80px;
+  font-family: 'serif';
+  color: #007fff;
+}
+
+.button{
+  margin-top: 5px;
+  margin-left: 80px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+  font-family: 'serif';
+  
+  
+}
+
+.container2 {
+  width: 350px;
+  height: max-content;
+  margin: auto;
+  background-color: #ADD8E6;
+  padding: 20px 15px;
+  margin-top: 40px;
+  border-radius: 7px;
+  font-family: 'Times New Roman', Times, serif;
+  box-shadow: 10px 11px rgba(0, 0, 0, 0);
+}
+
+table{
+  margin-left: 60px;
+  border: 1px solid black;
+}
+
+th {
+  background-color: blue;
+  color: white;
+}
+
+.form-field2 {
+  display: inline-block;
+  padding: 5px;
+  margin-top: 2px;
+  margin-left: 10px;
+
+}
+
+.form-cadastro2 {
+  margin-top: 10px;
+  margin-left: 130px;
+  font-family: 'serif';
+  color: #007fff;
+}
+
+.button2 {
+  margin-top: 5px;
+  margin-left: 130px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+  font-family: 'serif';
+  
+  
+}
+
+.preco {
+  margin-left: 50px;
+}

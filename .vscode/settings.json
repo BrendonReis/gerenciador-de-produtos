@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/22408d40-fb24-43b7-825b-82a3faa848f1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Gerenciadordeprodutos",
+    "appService.deploySubpath": "."
+}
